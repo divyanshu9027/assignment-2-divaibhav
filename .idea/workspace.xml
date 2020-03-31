@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9c03c847-f73b-4b8d-a788-ba3e01f7177d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/problem1/mybst/MyBinarySearchTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem1/mybst/MyBinarySearchTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/problem2/main/MyMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem2/main/MyMain.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +47,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1585408405509</updated>
-      <workItem from="1585629957839" duration="266000" />
+      <workItem from="1585629957839" duration="558000" />
     </task>
     <task id="LOCAL-00001" summary="create a TreeNode class completely">
       <created>1585630216696</created>
@@ -55,7 +56,21 @@
       <option name="project" value="LOCAL" />
       <updated>1585630216697</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="BinarySearchTree are completed and successfully works.">
+      <created>1585630308221</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1585630308221</updated>
+    </task>
+    <task id="LOCAL-00003" summary="MyMain class are completed and it really works.">
+      <created>1585630431919</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1585630431919</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -63,13 +78,15 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="create a TreeNode class completely" />
-    <option name="LAST_COMMIT_MESSAGE" value="create a TreeNode class completely" />
+    <MESSAGE value="BinarySearchTree are completed and successfully works." />
+    <MESSAGE value="MyMain class are completed and it really works." />
+    <option name="LAST_COMMIT_MESSAGE" value="MyMain class are completed and it really works." />
   </component>
   <component name="WindowStateProjectService">
-    <state x="343" y="8" key="CommitChangelistDialog2" timestamp="1585630306004">
+    <state x="343" y="8" key="CommitChangelistDialog2" timestamp="1585630430119">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="343" y="8" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1585630306004" />
+    <state x="343" y="8" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1585630430119" />
     <state x="465" y="238" key="com.intellij.ide.util.TipDialog" timestamp="1585629962375">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
