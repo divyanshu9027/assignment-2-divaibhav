@@ -2,13 +2,34 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9c03c847-f73b-4b8d-a788-ba3e01f7177d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/problem3/myLinkedList/MyLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/problem3/student/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/problem4/binaryST/MyBinarySearchTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/problem4/linkedList/MyLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/problem4/linkedList/Node.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/problem2/main/MyMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem2/main/MyMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/problem1/node/TreeNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem1/node/TreeNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/problem3/main/MyMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem3/main/MyMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/problem3/myqueue/MyPriorityQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem3/myqueue/MyPriorityQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/problem3/node/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem3/node/Node.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/problem4/main/MyMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem4/main/MyMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/problem4/myqueue/MyQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem4/myqueue/MyQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/problem5/circularqueue/MyCircularQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem5/circularqueue/MyCircularQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/problem5/main/MyMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem5/main/MyMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/problem5/node/Node.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/problem5/student/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem5/student/Student.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -47,7 +68,10 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1585408405509</updated>
-      <workItem from="1585629957839" duration="558000" />
+      <workItem from="1585629957839" duration="2331000" />
+      <workItem from="1585632353762" duration="171000" />
+      <workItem from="1585632553441" duration="310000" />
+      <workItem from="1585632888358" duration="1053000" />
     </task>
     <task id="LOCAL-00001" summary="create a TreeNode class completely">
       <created>1585630216696</created>
@@ -70,7 +94,21 @@
       <option name="project" value="LOCAL" />
       <updated>1585630431919</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="MyMain class of problem2 are successfully runs.">
+      <created>1585630562941</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1585630562941</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Node class are completed.">
+      <created>1585630625342</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1585630625342</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -80,13 +118,15 @@
     <MESSAGE value="create a TreeNode class completely" />
     <MESSAGE value="BinarySearchTree are completed and successfully works." />
     <MESSAGE value="MyMain class are completed and it really works." />
-    <option name="LAST_COMMIT_MESSAGE" value="MyMain class are completed and it really works." />
+    <MESSAGE value="MyMain class of problem2 are successfully runs." />
+    <MESSAGE value="Node class are completed." />
+    <option name="LAST_COMMIT_MESSAGE" value="Node class are completed." />
   </component>
   <component name="WindowStateProjectService">
-    <state x="343" y="8" key="CommitChangelistDialog2" timestamp="1585630560766">
+    <state x="343" y="8" key="CommitChangelistDialog2" timestamp="1585631340390">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="343" y="8" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1585630560766" />
+    <state x="343" y="8" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1585631340390" />
     <state x="465" y="238" key="com.intellij.ide.util.TipDialog" timestamp="1585629962375">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
